@@ -184,11 +184,7 @@ Migration analysis of BPMN workflows from Camunda 7 to Kogito (Quarkus/Kubernete
 
 </div>
 
-##  Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leila-gad&theme=github-compact&hide_border=true" />
 
 </div>
 

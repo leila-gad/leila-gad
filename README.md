@@ -5,9 +5,9 @@ leila@inpt:~$ terraform plan
 ```hcl
 resource "engineer" "leila_gadal" {
   school   = "INPT, Rabat — Smart ICT (Cloud & Infrastructure)"
-  year     = 4
+  year     = final-year
   origin   = "Morocco"
-  focus    = ["cloud", "networks", "automation", "AIOps"]
+
 
   looking_for = "final-year engineering internship (PFE)"
 }
